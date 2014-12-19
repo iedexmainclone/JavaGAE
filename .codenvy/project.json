@@ -1,1 +1,0 @@
-{"description":"Google App Engine Java project. Illustrates simple examples that use the Search API.","builders":{"default":"maven"},"runners":{"configs":{"recommend":{"options":{},"variables":{},"ram":256}},"default":"system:/java/web/gae1914"},"type":"GAEJava","attributes":{"language":["java"]}}
