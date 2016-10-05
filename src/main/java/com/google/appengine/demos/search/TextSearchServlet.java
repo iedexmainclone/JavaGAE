@@ -1,5 +1,5 @@
-// Copyright 2011 Google Inc. All Rights Reserved.
-
+// Copyright 2016 Google Inc. All Rights Reserved.
+///
 package com.google.appengine.demos.search;
 
 import com.google.appengine.api.search.Document;
